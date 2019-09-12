@@ -1,7 +1,7 @@
 # Jaime Omar Marcial Gonzalez 
 ## computadoras y programción grupo 1157
 ## Semestre 2020-I
-! [Logo FES Aragón](fes aragon.jpg)
+! [Logo FES Aragón](fesa.jpg)
 
 Aquí va una  **descripción** del *repositorio*
 - elemento 1
@@ -10,6 +10,6 @@ Aquí va una  **descripción** del *repositorio*
 
 ``` 
 num = 10
-print("Num vale,=".num)
+print("Num vale,=",num)
 ```
 Aqui va una descripcion del repositorio
