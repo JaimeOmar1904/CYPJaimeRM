@@ -1,5 +1,5 @@
 SUE = int(input("Cual es el sueldo del trabajador: "))
-CATE = int(input("Cual es la categoria del trabajador:"))
+CATE = int(input("Cual es la categoria del trabajador: "))
 HE = int(input("Cuantas horas extras tienes: "))
 if CATE == 1:
     PHE = 30
@@ -16,4 +16,4 @@ if HE>30:
 else: 
  NSUE = SUE+HE*PHE
 
-print(f"{NSUE}")
+print(f"Tu nuevo sueldo es ${NSUE}")

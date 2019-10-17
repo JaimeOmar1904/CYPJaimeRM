@@ -23,5 +23,5 @@ elif CLAVE == 29:
 
 else:
     print(f"Opcion no valida")
-print(f"Costo total de la llamada es {COST} y la Clave = {CLAVE}")
+print(f"Costo total de la llamada es ${COST} y la Clave = {CLAVE}")
 print("Fin del programa")
