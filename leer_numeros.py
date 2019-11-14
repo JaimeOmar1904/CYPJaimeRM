@@ -12,7 +12,7 @@ print(lista_num)
 lista_num.sort()
 print(f"\n Lista ordenda:(lista_num) \n")
 
-print(f"El mayor es :{lista_num[-1]) y el menor es : {lista_num[0])")
+print(f"El mayor es :{lista_num[-1]) y el menor es : {lista_num[0]}")
 numero1.replace('\n' ,'')
 archivo.close()
 
